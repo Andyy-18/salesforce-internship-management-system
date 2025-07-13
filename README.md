@@ -19,13 +19,6 @@ Designed to simulate real-world internship management for colleges and companies
 - Reports & Dashboards
 - Validation Rules & Matching Rules
 
-## 📸 Screenshots
-Check the `(./screenshots)
-` folder for:
-- Home Page
-- Flows
-- Dashboard
-
 ---
 ## 🔍 Explore More
 
@@ -33,4 +26,9 @@ Check the `(./screenshots)
 ⚙️ [Objects Used](./objects-used.txt)  
 🧠 [Flow Names & Logic](./flow-names-and-logic.txt)  
 📸 [Screenshots Folder](./screenshots)
+   Check the `screenshots` folder for:
+   - Home Page
+   - Flows
+   - Dashboard
+
 
