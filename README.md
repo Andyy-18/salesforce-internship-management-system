@@ -1,6 +1,11 @@
+![IMS Banner](./screenshots/ims-banner.png)
+
 # 📘 Salesforce Internship Management System (IMS)
 
-A declarative Salesforce CRM built to manage internship assignments between interns, companies, and mentors — using custom objects, flows, and dashboards.
+A fully functional **Salesforce project** that allows managing student internship assignments, company details, mentor allocation, and performance dashboards using Flows, Validation Rules, and Reports.
+
+🔧 Built using: **Custom Objects**, **Screen Flows**, **Record-Triggered Flows**, **Reports**, **Dashboards**, and **Validation Rules**.
+
 
 ## 🔧 Features
 - Custom Objects: Intern, Company, Internship
