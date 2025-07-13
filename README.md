@@ -25,8 +25,8 @@ Designed to simulate real-world internship management for colleges and companies
 📄 [Project Summary](./project-summary.md)  
 ⚙️ [Objects Used](./objects-used.txt)  
 🧠 [Flow Names & Logic](./flow-names-and-logic.txt)  
-📸 [Screenshots Folder](./screenshots)
-   Check the `screenshots` folder for:
+📸 [Screenshots Folder](./screenshots) : 
+  - Check the `screenshots` folder for:
    - Home Page
    - Flows
    - Dashboard
