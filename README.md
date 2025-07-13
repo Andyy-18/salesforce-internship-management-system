@@ -20,7 +20,8 @@ Designed to simulate real-world internship management for colleges and companies
 - Validation Rules & Matching Rules
 
 ## 📸 Screenshots
-Check the `/screenshots` folder for:
+Check the `(./screenshots)
+` folder for:
 - Home Page
 - Flows
 - Dashboard
