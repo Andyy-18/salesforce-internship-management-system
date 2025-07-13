@@ -26,4 +26,10 @@ Check the `/screenshots` folder for:
 - Dashboard
 
 ---
+## 🔍 Explore More
+
+📄 [Project Summary](./project-summary.md)  
+⚙️ [Objects Used](./objects-used.txt)  
+🧠 [Flow Names & Logic](./flow-names-and-logic.txt)  
+📸 [Screenshots Folder](./screenshots)
 
