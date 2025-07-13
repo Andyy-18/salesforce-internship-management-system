@@ -1,4 +1,4 @@
-![IMS Banner](./screenshots/ims-banner2.png)
+![IMS Banner](./screenshots/ims-banner3.png)
 
 # 📘 Salesforce Internship Management System (IMS)
 
