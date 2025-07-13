@@ -1,0 +1,22 @@
+📦 Salesforce Custom Objects Used
+
+1. Intern__c
+   - Fields: Name, Email, College, Skills, etc.
+
+2. Company__c
+   - Fields: Name, Domain, Location, Website
+
+3. Internship__c
+   - Fields: Intern (Lookup to Intern), Company (Lookup), Duration, Stipend, Status
+   - Relationships:
+     → Many-to-One (Intern to Internship)
+     → Many-to-One (Company to Internship)
+   - Extra:
+     → Student_Company_Key__c (for duplicate validation)
+
+4. (Optional) Mentor__c
+   - If included: Name, Email, Department, Assigned Interns
+
+---
+
+🔗 Relationships are defined using Lookups for scalable one-to-many structure.

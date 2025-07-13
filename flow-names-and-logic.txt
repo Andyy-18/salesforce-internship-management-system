@@ -1,0 +1,19 @@
+🌀 Flow Names and Logic
+
+1. Assign Mentor to Intern (Screen Flow)
+   → Takes Intern & Mentor input
+   → Updates Internship record with selected Mentor
+
+2. Assign Intern to Company (Screen Flow)
+   → Dropdowns to choose Intern and Company
+   → Updates Internship record with Company info
+
+3. Auto-generate Student_Company_Key (Record-Triggered Flow)
+   → Before Save flow
+   → Concatenates InternId-CompanyId into custom field for duplicate checking
+
+4. Update Company Name from Lookup (Record-Triggered Flow)
+   → Auto-updates Company Name when Company__c field changes in Internship
+
+---
+
